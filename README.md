@@ -5,7 +5,7 @@
 
 Если клонируем (Самый простой способ):
 ```
-git clone https://github.com/Compratrex/ProjectTestovoe
+git clone https://github.com/Compratrex/ProjectTestovoe.git
 ```
 
 Далее, нужно распаковать все что имеет .zip расширение в ту же папку, где находится.
